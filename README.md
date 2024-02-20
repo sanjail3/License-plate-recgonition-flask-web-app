@@ -10,6 +10,4 @@
 
 `python  app.py` for running license plate recgonition using LPRNet
 
-`python  app1.py` for running license plate recgonition using Tesseract
 
-`python  app2.py` for running license plate recgonition using EasyOCR
